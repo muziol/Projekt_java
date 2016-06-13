@@ -2,6 +2,13 @@ package Okno;
 
 /**
  * Created by rafal on 02.06.2016.
+ * Obrysowanie ramki
+ * [-1] - krawedz/tekst
+ * [0] - tekst
+ * [1] - krawedz/tekst/krawedz
+ * [2] - tekst/krawedz
+ * [3] - tekst/krawedz/strzalka
+ * [4] - krawedz/tekst/krawedz/strzalka
  */
 public class Okno {
     private String s = "                                        ";
